@@ -1,0 +1,3 @@
+Cedula,Nombre,Ciudad,Edad
+1007,tony,Aguachica,21
+49666,Luz dary,Aguachica,44
